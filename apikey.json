@@ -1,0 +1,18 @@
+{
+  "web": {
+    "client_id": "615614073138-9cr034e28pho4di2i9f1vfnfh3l6kukq.apps.googleusercontent.com",
+    "project_id": "infinite-bruin-402102",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "https://infinite-bruin-402102.firebaseapp.com/__/auth/handler"
+    ],
+    "javascript_origins": [
+      "http://localhost",
+      "http://localhost:5000",
+      "https://infinite-bruin-402102.firebaseapp.com"
+    ]
+  }
+}
