@@ -11,9 +11,8 @@
 /.next/
 /out/
 /.firebaserc
-/firebase.json
+firebase.json
 /.firebase
-/apikey.json
 # production
 /build
 
